@@ -19,5 +19,4 @@ Meyer is the first LemonStand theme that uses Angular.
 * Easy header and footer navigation customization using widget blocks
 
 ---
-
 [LemonStand.com](https://lemonstand.com) | [LemonStand Docs](https://docs.lemonstand.com)
